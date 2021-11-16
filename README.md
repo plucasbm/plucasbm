@@ -1,7 +1,7 @@
 ### Olá!!! Eu sou Paulo Lucas
 
 - 📚 Sou graduando em Engenharia da Computação pela UNIVASF (Universidade Federal do Vale do São Francisco)
-- 🌱 No momento estou aprendendo Flutter e Dart
+- 🌱 No momento estou aprendendo HTML e CSS
 - 💻 Tenho bastante interesse pela área de desenvolvimento de software
 - 📫 Contato (principal): paulolucas.bmatos@gmail.com
 
