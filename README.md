@@ -1,9 +1,8 @@
 ### Olá!!! Eu sou Paulo Lucas
 
 - 📚 Sou graduando em Engenharia da Computação pela UNIVASF (Universidade Federal do Vale do São Francisco)
-- 🌱 No momento estou aprendendo HTML e CSS
+- 🌱 No momento estou me desenvolvendo como Dev Front-End
 - 💻 Tenho bastante interesse pela área de desenvolvimento de software
-- 📫 Contato (principal): paulolucas.bmatos@gmail.com
 
 <div>
   <a href="https://github.com/plucasbm">
