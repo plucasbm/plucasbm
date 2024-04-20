@@ -3,6 +3,12 @@
 - 📚 Sou Engenheiro da Computação, graduado pela UNIVASF (Universidade Federal do Vale do São Francisco)
 - 🌱 Dev Mobile - Flutter
 - 💻 Tenho bastante interesse pela área de desenvolvimento de software
+
+  <div>
+  <a href="https://github.com/plucasbm">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plucasbm&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Lucas-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg">
