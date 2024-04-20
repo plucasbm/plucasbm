@@ -1,7 +1,7 @@
 ### Olá!!! Eu sou Paulo Lucas
 
-- 📚 Sou graduando em Engenharia da Computação pela UNIVASF (Universidade Federal do Vale do São Francisco)
-- 🌱 No momento estou me desenvolvendo como Dev Mobile - Flutter
+- 📚 Sou Engenheiro da Computação, graduado pela UNIVASF (Universidade Federal do Vale do São Francisco)
+- 🌱 Dev Mobile - Flutter
 - 💻 Tenho bastante interesse pela área de desenvolvimento de software
 
 <div>
